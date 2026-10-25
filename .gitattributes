@@ -1,0 +1,7 @@
+*.pdf binary
+*.png binary
+*.md text
+*.html text
+*.txt text
+*.json text
+*.tsv text

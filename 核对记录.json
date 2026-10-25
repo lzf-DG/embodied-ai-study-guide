@@ -1,0 +1,65 @@
+[
+  {
+    "id": "P1_Agentic_Robots",
+    "source_pages": 79,
+    "translation_pdf_pages": 226,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "P2_Last_AI_RSI",
+    "source_pages": 79,
+    "translation_pdf_pages": 231,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "P3_Long_Horizon",
+    "source_pages": 149,
+    "translation_pdf_pages": 440,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "P4_World_Models",
+    "source_pages": 23,
+    "translation_pdf_pages": 88,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "P5_Path_RSI",
+    "source_pages": 70,
+    "translation_pdf_pages": 184,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "S1_Foundation_Models",
+    "source_pages": 33,
+    "translation_pdf_pages": 107,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "S2_VLA_Survey",
+    "source_pages": 54,
+    "translation_pdf_pages": 215,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "S3_Data_Benchmark",
+    "source_pages": 17,
+    "translation_pdf_pages": 47,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  },
+  {
+    "id": "S4_SLAM_Survey",
+    "source_pages": 25,
+    "translation_pdf_pages": 81,
+    "all_source_pages_preserved": true,
+    "all_source_pages_have_translation": true
+  }
+]
